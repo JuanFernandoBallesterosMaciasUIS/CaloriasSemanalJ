@@ -64,5 +64,6 @@ public class CaloriasSemanales {
             caloriasDescendente += semana[i] + ": " + calorias[i] + "\n";
         }
         JOptionPane.showMessageDialog(null, caloriasDescendente);
+        
     }
 }
